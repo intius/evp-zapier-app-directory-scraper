@@ -13,7 +13,7 @@
           ]
         }
       },
-      "id": "38ac878b-945e-4f03-b720-1fa750a243f4",
+      "id": "1761b13f-be41-459a-bede-cc7086ee5aea",
       "name": "Run every morning",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
@@ -41,7 +41,7 @@
         "build": "latest",
         "authentication": "apifyApi"
       },
-      "id": "05b6ffdd-3fd2-4525-88b7-c35d58794208",
+      "id": "c5474f4c-2617-40af-8cfa-008f631f3c4e",
       "name": "Run Zapier App Directory Scraper",
       "type": "@apify/n8n-nodes-apify.apify",
       "typeVersion": 1,
@@ -60,11 +60,11 @@
         "method": "POST",
         "url": "https://webhook.site/your-unique-url",
         "sendBody": true,
-        "contentType": "json",
-        "body": "={{ $json }}",
+        "specifyBody": "json",
+        "jsonBody": "={{ $json }}",
         "options": {}
       },
-      "id": "25184161-59c7-4305-9031-5cc878786d67",
+      "id": "a820ed8b-bb7f-4414-adf2-ebb86bd76675",
       "name": "Send results to webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
