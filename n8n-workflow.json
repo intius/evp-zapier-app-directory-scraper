@@ -13,7 +13,7 @@
           ]
         }
       },
-      "id": "e19fb0fe-7116-4ef3-99c5-f10f46ece337",
+      "id": "38ac878b-945e-4f03-b720-1fa750a243f4",
       "name": "Run every morning",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
@@ -41,7 +41,7 @@
         "build": "latest",
         "authentication": "apifyApi"
       },
-      "id": "27475e45-9d23-47c1-b9fc-d5c58c3fa998",
+      "id": "05b6ffdd-3fd2-4525-88b7-c35d58794208",
       "name": "Run Zapier App Directory Scraper",
       "type": "@apify/n8n-nodes-apify.apify",
       "typeVersion": 1,
@@ -64,7 +64,7 @@
         "body": "={{ $json }}",
         "options": {}
       },
-      "id": "bd500889-5e89-4ace-b5ba-27e528f96d24",
+      "id": "25184161-59c7-4305-9031-5cc878786d67",
       "name": "Send results to webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,

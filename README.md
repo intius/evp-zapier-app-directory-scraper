@@ -9,7 +9,7 @@
 - Export Zapier App Directory data without building or maintaining a custom scraper
 - Get flat, schema documented JSON ready for analytics, lead generation, market research, and AI agents
 - Run manually, on a schedule, through the Apify API, or through MCP compatible AI tools
-- Use the included 25 plus row sample dataset to prototype before running the live Actor
+- Use the included 25+ row sample dataset to prototype before running the live Actor
 
 Built for SaaS partnership/biz-dev teams, integration market researchers, VCs tracking automation ecosystem.
 
@@ -129,7 +129,7 @@ The first sanitized row from the included sample dataset:
 | `node/run.mjs` | Working Node.js Apify API example |
 | `mcp-config.json` | MCP server configuration for AI agents |
 | `sample-output.json` | First five sanitized sample rows |
-| `dataset-snapshot.csv` | 25 plus row evaluation snapshot |
+| `dataset-snapshot.csv` | 25+ row evaluation snapshot |
 | `DATASET_CARD.md` | Dataset documentation and provenance |
 | `n8n-workflow.json` | Scheduled n8n automation template |
 
