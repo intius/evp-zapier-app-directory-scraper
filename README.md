@@ -4,6 +4,8 @@
 
 [![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-orange)](https://apify.com/evpp/zapier-app-directory)
 
+[Open the documentation and crawlable sample explorer](https://intius.github.io/evp-labs-data-extractors/actors/zapier-app-directory/) for quick inputs, integration links, real sample rows, and ready-made task examples.
+
 ## Why use this Zapier App Directory scraper?
 
 - Export Zapier App Directory data without building or maintaining a custom scraper
