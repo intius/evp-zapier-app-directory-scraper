@@ -61,6 +61,8 @@ Add the hosted Apify MCP server from `mcp-config.json` to your MCP client:
 
 Then ask your agent to run `evpp/zapier-app-directory`, inspect the output schema, or export the latest dataset. The direct MCP URL is `https://mcp.apify.com/?tools=evpp/zapier-app-directory`.
 
+For multi-source public data agents, use the [EVP Public Data MCP server](https://github.com/intius/evp-public-data-mcp). It is published in the Official MCP Registry as `io.github.intius/evp-public-data-mcp` and is also available as a one-click Claude Desktop MCPB release.
+
 ## n8n automation
 
 Import `n8n-workflow.json` into n8n, select your Apify credential, replace the webhook placeholder, and activate the schedule. The workflow runs the Actor every morning and posts fresh dataset items to your webhook.
