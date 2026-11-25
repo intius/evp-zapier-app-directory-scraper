@@ -1,0 +1,131 @@
+[
+  {
+    "id": 11898,
+    "title": "Apollo",
+    "slug": "apollo",
+    "url": "https://zapier.com/apps/apollo/integrations",
+    "description": "Apollo is a unified engagement platform that is the foundation for your entire end-to-end sales strategy. Teams get access to a database of over 200 million contacts, as well as a host of different engagement and analytics tools.",
+    "categories": [
+      "Sales & CRM"
+    ],
+    "categorySlugs": [
+      "sales-crm"
+    ],
+    "domain": "apollo.io",
+    "apiDocsUrl": "https://apolloio.github.io/apollo-api-docs/?shell#introduction",
+    "imageUrl": "https://cdn.zapier.com/img/services/f182ae680fb17b2ec9047a6e4014a99f.png?size=128x128",
+    "ageInDays": 2066,
+    "siteUrl": "https://www.apollo.io/",
+    "zapUsageCount": 1663,
+    "popularity": 177,
+    "isPremium": false,
+    "isBeta": false,
+    "isFeatured": false,
+    "isUpcoming": false,
+    "hashtag": "#Apollo",
+    "primaryColor": "242D3E"
+  },
+  {
+    "id": 40706,
+    "title": "Commas",
+    "slug": "commas",
+    "url": "https://zapier.com/apps/commas/integrations",
+    "description": "Commas is a platform to create, sell, and get paid. From your first dollar to your next comma.",
+    "categories": [
+      "Sales & CRM"
+    ],
+    "categorySlugs": [
+      "sales-crm"
+    ],
+    "domain": "commas.com",
+    "apiDocsUrl": "https://fanbasis.com/api/documentation",
+    "imageUrl": "https://cdn.zapier.com/img/services/351e2299a3ed96e6debeb119fbdf62dd.png?size=128x128",
+    "ageInDays": 979,
+    "siteUrl": "https://www.commas.com",
+    "zapUsageCount": 1326,
+    "popularity": 203,
+    "isPremium": false,
+    "isBeta": false,
+    "isFeatured": false,
+    "isUpcoming": false,
+    "hashtag": "#Commas",
+    "primaryColor": "97C7FB"
+  },
+  {
+    "id": 32732,
+    "title": "Roofr",
+    "slug": "roofr",
+    "url": "https://zapier.com/apps/roofr/integrations",
+    "description": "Roofr: spend less time on admin and more time growing your roofing business. Manage reports, proposals, invoicing, payments, and more, on our easy-to-use platform.",
+    "categories": [
+      "Sales & CRM"
+    ],
+    "categorySlugs": [
+      "sales-crm"
+    ],
+    "domain": "roofr.com",
+    "apiDocsUrl": "https://roofr.com",
+    "imageUrl": "https://cdn.zapier.com/img/developer_cli/68822cae1ac9daed1e49e37e082b15f0.png?size=128x128",
+    "ageInDays": 1799,
+    "siteUrl": "https://roofr.com",
+    "zapUsageCount": 729,
+    "popularity": 314,
+    "isPremium": false,
+    "isBeta": false,
+    "isFeatured": false,
+    "isUpcoming": false,
+    "hashtag": "#Roofr",
+    "primaryColor": "1373E3"
+  },
+  {
+    "id": 22265,
+    "title": "Loyverse",
+    "slug": "loyverse",
+    "url": "https://zapier.com/apps/loyverse/integrations",
+    "description": "Free Point of Sale and Inventory Management Software. Turn your smartphone or tablet into a powerful POS. Manage sales, inventory and employees with ease.",
+    "categories": [
+      "Sales & CRM"
+    ],
+    "categorySlugs": [
+      "sales-crm"
+    ],
+    "apiDocsUrl": "https://developer.loyverse.com/docs/",
+    "imageUrl": "https://cdn.zapier.com/img/developer_cli/0144004f2e64427e0841e90d0e534354.png?size=128x128",
+    "ageInDays": 1428,
+    "siteUrl": "loyverse.com",
+    "zapUsageCount": 323,
+    "popularity": 504,
+    "isPremium": false,
+    "isBeta": false,
+    "isFeatured": false,
+    "isUpcoming": false,
+    "hashtag": "#Loyverse",
+    "primaryColor": "4caf50"
+  },
+  {
+    "id": 42719,
+    "title": "iSpeedToLead",
+    "slug": "ispeedtolead",
+    "url": "https://zapier.com/apps/ispeedtolead/integrations",
+    "description": "iSpeedToLead is a lead generation platform offering freshly generated, motivated seller leads who want a cash offer or a quick sale.",
+    "categories": [
+      "Sales & CRM"
+    ],
+    "categorySlugs": [
+      "sales-crm"
+    ],
+    "domain": "ispeedtolead.com",
+    "apiDocsUrl": "https://testinstance.ispeedtolead.com/api/doc",
+    "imageUrl": "https://cdn.zapier.com/img/developer_cli/e71f268a4851d5f80b853c9b6349c72e.png?size=128x128",
+    "ageInDays": 623,
+    "siteUrl": "https://ispeedtolead.com",
+    "zapUsageCount": 319,
+    "popularity": 508,
+    "isPremium": false,
+    "isBeta": false,
+    "isFeatured": false,
+    "isUpcoming": false,
+    "hashtag": "#Ispeedtolead",
+    "primaryColor": "CC0000"
+  }
+]
